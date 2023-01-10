@@ -1,4 +1,4 @@
-pymodaq_plugins_template (??? Instruments)
+pymodaq_plugins_zhinst (zurich instruments)
 ##########################################
 
 .. the following must be adapted to your developped package, links to pypi, github  description...
